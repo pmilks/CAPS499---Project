@@ -135,4 +135,16 @@ display: block;
 background-color: #3c3c3c;
 }
 
+.source-code-viewer {
+    width: 300px;
+    background-color: #1e1e1e;
+    color: #d4d4d4;
+    border-left: 1px solid #3c3c3c;
+    padding: 10px;
+    overflow: auto;
+    font-family: 'Courier New', monospace;
+    font-size: 14px;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
   
