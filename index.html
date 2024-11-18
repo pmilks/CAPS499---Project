@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>VSCode Themed Website</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="vscode-container">
+        <!-- Sidebar -->
+        <div class="sidebar">
+            <div class="logo">VSCode</div>
+            <ul class="menu">
+            <li>Explorer</li>
+            <li>Search</li>
+            <li>Source Control</li>
+            <li>Run</li>
+            <li>Extensions</li>
+            </ul>
+        </div>
+        
+        <!-- File Explorer -->
+        <div class="file-explorer">
+            <div class="explorer-header">EXPLORER</div>
+            <ul class="explorer-files">
+            <li class="folder">📁 Project
+                <ul>
+                <li>📄 index.html</li>
+                <li>📄 styles.css</li>
+                <li>📄 script.js</li>
+                </ul>
+            </li>
+            </ul>
+        </div>
+        
+        <!-- Main Content -->
+        <div class="main-content">
+            <!-- Tab Bar -->
+            <div class="tab-bar">
+            <span class="tab active">index.html</span>
+            <span class="tab">styles.css</span>
+            <span class="tab">script.js</span>
+            </div>
+        
+            <!-- Editor Area -->
+            <div class="editor">
+            <pre>
+        <code>&lt;!-- This is your code editor --&gt;
+        &lt;div class="vscode-style"&gt;Hello World&lt;/div&gt;
+            </code>
+            </pre>
+            </div>
+        </div>
+        
+        <!-- Status Bar -->
+        <div class="status-bar">
+            <span>Line 1, Col 1</span>
+            <span>UTF-8</span>
+            <span>Spaces: 2</span>
+            <span>JavaScript</span>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>   
