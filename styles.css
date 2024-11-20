@@ -1,4 +1,13 @@
 /* styles.css */
+* {
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+*::-webkit-scrollbar {
+    display: none;
+}
+
 
 body {
     margin: 0;
@@ -6,7 +15,7 @@ body {
     color: #d4d4d4;
     background-color: #1e1e1e;
     height: 100%;
-    overflow: hidden;
+    overflow: auto;
 }
 
 .vscode-container {
@@ -23,7 +32,7 @@ width: 100%;
 }
 
 .sidebar {
-width: 130px;
+min-width: 130px;
 height: 100%;
 background-color: #252526;
 border-right: 1px solid #3c3c3c;
@@ -33,6 +42,8 @@ align-items: center;
 color: #d4d4d4;
 padding: 10px 0;
 min-width: 130px;
+overflow-x: auto;
+white-space: nowrap;
 }
 
 .sidebar .logo {
@@ -53,7 +64,7 @@ font-weight: bold;
     text-align: left;
     color: #ffffff;
     font-family: monospace;
-    font-size: 15px;
+    font-size: 13px;
     line-height: 1;
 }
 
@@ -136,7 +147,6 @@ background-color: #252526;
 color: #d4d4d4;
 display: flex;
 flex-direction: column;
-overflow-y: auto;
 scrollbar-width: thin;
 }
 
@@ -150,7 +160,7 @@ text-align: left;
 
 .explorer-files {
 list-style: none;
-padding: 10px;
+padding: 5px 10px;
 margin: 0;
 font-size: 0.8em;
 }
@@ -158,6 +168,10 @@ font-size: 0.8em;
 .explorer-files li {
 padding: 5px 0;
 cursor: pointer;
+}
+
+.explorer-files li:hover {
+    background-color: #818080;
 }
 
 .explorer-files .folder ul {
@@ -174,8 +188,3 @@ a {
     text-decoration: none;
     color: inherit
 }
-
-.explorer-files li:hover {
-background-color: #3c3c3c;
-}
-  
