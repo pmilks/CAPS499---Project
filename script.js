@@ -96,27 +96,36 @@ document.addEventListener("DOMContentLoaded", () => {
     <script src="script.js"></script>
 </body>
 </html>   
-`,`<div>
-<p>  _____      __  __    _    ___ _     
- | ____|    |  \/  |  / \  |_ _| |    
- |  _| _____| |\/| | / _ \  | || |    
- | |__|_____| |  | |/ ___ \ | || |___ 
- |_____|    |_|  |_/_/   \_\___|_____|</p><a href="mailto:patrick.milks@gmail.com">patrick.milks@gmail.com</a></span></p>
-</div>
-<p class=MsoNormal style='margin-left:1.0in;text-indent:.5in;text-align:center;'><span lang=EN-US
-style='font-size:12.0pt;line-height:107%;font-family:"Segoe UI Emoji",sans-serif'>&#128187;</span><span
-lang=EN-US style='font-size:18.0pt;line-height:107%;font-family:"Cascadia Code"'>
-:<a href="https://github.com/pmilks">https://github.com/pmilks</a></span></p>
+`,`<div><center>
+<p>  ______      __  __          _____ _      
+ |  ____|    |  \\/  |   /\\   |_   _| |     
+ | |__ ______| \\  / |  /  \\    | | | |     
+ |  __|______| |\\/| | / /\\ \\   | | | |     
+ | |____     | |  | |/ ____ \\ _| |_| |____ 
+ |______|    |_|  |_/_/    \\_\\_____|______|
+</p><a href="mailto:patrick.milks@gmail.com">patrick.milks@gmail.com</a></span>
 
-<p class=MsoNormal style='margin-left:1.0in;text-indent:.5in;text-align:center;'><span lang=EN-US
-style='font-size:12.0pt;line-height:107%;font-family:"Segoe UI Emoji",sans-serif'>&#128188;</span><span
-lang=EN-US style='font-size:18.0pt;line-height:107%;font-family:"Cascadia Code"'>
-:<a href="https://www.linkedin.com/in/patrick-milks/">https://www.linkedin.com/in/patrick-milks/</a></span></p>
+<hr>
 
-</div>
+<p>   _____ _____ _______ _    _ _    _ ____  
+  / ____|_   _|__   __| |  | | |  | |  _ \\ 
+ | |  __  | |    | |  | |__| | |  | | |_) |
+ | | |_ | | |    | |  |  __  | |  | |  _ < 
+ | |__| |_| |_   | |  | |  | | |__| | |_) |
+  \\_____|_____|  |_|  |_|  |_|\\____/|____/ 
+</p><a href="https://github.com/pmilks">https://github.com/pmilks</a>
 
+<hr>
+
+<p> _      _____ _   _ _  ________ _____ _____ _   _ 
+| |    |_   _| \\ | | |/ /  ____|  __ \\_   _| \\ | |
+| |      | | |  \\| | ' /| |__  | |  | || | |  \\| |
+| |      | | | \.   |  < |  __| | |  | || | | \. \` |
+| |____ _| |_| |\\  | \. \\| |____| |__| || |_| |\\  |
+|______|_____|_| \\_|_|\\_\\______|_____/_____|_| \\_|
+</p><a href="https://www.linkedin.com/in/patrick-milks/">https://www.linkedin.com/in/patrick-milks/</a>
+</center>
 </body>
-
 </html>
 `],'hurpredmodel':[`#HURDAT Parsing -> Hurricane Objects w/ list of Entry objects
 from dataclasses import dataclass
@@ -375,9 +384,10 @@ Welcome to my portfolio website, completed for CAPS499 at Capilano University!
 <p> I am a graduate of Capilano University as a holder of the Bachelor of Science with concentration in computational science. Now I am either seeking work as a junior software developer and programmer or a second degree in a Bachelor of Computer Sciences. My professional journey up until this point has been a culmination of my growth as a coder and of my character, and my lived experiences have helped mold my core values.</p>
 <center><img src='images\\young.jpg' width=300px;></center>
 <p> I was born in Penticton, British Columbia in Canada but I spent most of my youth in Baton Rouge, Louisiana in the United States. I have lived in what may feel like polar opposite between big city and small town living but each unique environment and culture has given me a broader outlook on life and how others live. Having lived through many hurricanes, especially hurricane Katrina, and seeing how people can suffer and depend on the graces of their community and others, it became instilled in me to always try and help those around me. During easy and tough times, my family was always a source of stability and my parents passed down their core values of hard work, respect of others and an open mind to me.</p>
-<p> Outside of academics, I’ve always been active in my community. I’ve done much volunteer work ranging from making earthquakes preparedness kits for local schools and coaching at the hockey rink to electronics disassembly for greener recycling and helping those who have protected my community at Honour Homes. This volunteering helped me form my own personal values of giving back to my community and helping the less fortunate. Since I was able to walk, I’ve been athletically involved, having played almost every sport under the sun. My experience with team sports has helped me develop into a good team member, as well as a leader.</p>
-<p> At a young age I developed an interest in computer sciences, often wondering and figuring the logic in simple machinery and computers. I began to be curious how computers could complete what seemed like incredible tasks such as rendering video games or playing movies. During my late high school years, I began self-teaching myself rudimentary computer sciences, beginning with an introduction to java. My passion only grew so I eventually swapped my field of study at university to computer sciences and I’ve since only become more and more addicted to learning more about programming and software. I now hope to one day use my computer science and problem-solving skills to their fullest in team setting, goaled with improving the lives of others.</p>
-<center><img src='images\\old.jpg' width=180px;></center>
+<p> Outside of academics, I’ve always been active in my community. I’ve done much volunteer work ranging from making earthquakes preparedness kits for local schools and coaching at the hockey rink to electronics disassembly for greener recycling and helping those who have protected my community at Honour Homes. This volunteering helped me form my own personal values of giving back to my community and helping the less fortunate. Since I was able to walk, I’ve been athletically involved, having played almost every sport under the sun. My experience with team sports has helped me develop into a good team member, as well as a leader. It also put me out into BC's backyard where I enjoy spending much of my time. I always been concerned with climate change and hope to help lessen or prevent it in my professional future.</p>
+<center><img src='images\\squam.jpg' width=300px;></center>
+<p> At a young age I developed an interest in computer sciences, often wondering and figuring the logic in simple machinery and computers. I began to be curious how computers could complete what seemed like incredible tasks such as rendering video games or playing movies. During my late high school years, I began messing around with robotics and self-teaching myself rudimentary computer sciences, beginning with an introduction to java. My passion only grew so I eventually swapped my field of study at university to computer sciences and I’ve since only become more and more addicted to learning more about programming and software. I now hope to one day use my computer science and problem-solving skills to their fullest in team setting, goaled with improving the lives of others.</p>
+<center><img src='images\\wind.jpg' width=180px;></center>
 </div>`],"personal":[`/* styles.css */
 * {
     scrollbar-width: none;
@@ -569,7 +579,469 @@ a {
     color: inherit
 }`,`<div><center><u><h2>Personal Message</u></h2></center>
 <p>  Ideally for those visiting my portfolio, this serves as a reflection of my journey to complete my studies at Capilano University and should exhibit my growth, both personally and academically, through my projects, statements and site design choices. It should hopefully provide insight into my life’s goals and passions and how they tie into computer science and programming in a concise but thorough manner. The projects I’ve chosen to display on my portfolio can give those interested an encapsulation of my evolution as a student, a developed and as a person, showcasing not only my technical expertise but also the topics and issues that touch me. I hope that they demonstrate my interest in greater public causes and my will to help those around me while having a positive impact of the environment in an effort to be a global citizen.</p>
-<p> My message to those visiting this portfolio is that I am a person of growth and continued learning. I firmly believe that my strongest skill is my ability to learn from my mistakes and improve. I am a tireless worker, ensuring all my work is done at my highest capacity. I strive constantly for self-improvement and use my past lived experiences as stepping stools to rise to greater heights. Whether it is in the projects shown in this portfolio, during my academic career or any other facet of my life, I never steered away from my shortcomings or gaps in knowledge as I have learned they are but opportunities to improve one’s self.</p></div>`]
+
+<center><img src="images\\old.jpg" width="250"></center>
+
+<p> My message to those visiting this portfolio is that I am a person of growth and continued learning. I firmly believe that my strongest skill is my ability to learn from my mistakes and improve. I am a tireless worker, ensuring all my work is done at my highest capacity. I strive constantly for self-improvement and use my past lived experiences as stepping stools to rise to greater heights. Whether it is in the projects shown in this portfolio, during my academic career or any other facet of my life, I never steered away from my shortcomings or gaps in knowledge as I have learned they are but opportunities to improve one’s self.</p></div>`],
+"journal.txt":[`def class_to_traj_csv(coord_int):
+    for hur in hur_2021:
+        temp_df = pd.DataFrame(columns=['ID','Lat','Lon','SST','SSTd','hurMaxWind','hurMinPressure','hurRadius',
+                            'Next Lat','Next Lon','Next hurMaxWind','Next hurMinPressure','Next hurRadius']) # NO SEA WIND
+        current_entry = False
+        next_entry = False
+        first_landfall = False
+        for entry in hur.entries:
+            if first_landfall == False:
+                coords = entry.convert_coords()
+                try:
+                    entry.find_temps(coord_int)
+                    if (entry.max_wind < 0 or entry.min_pressure < 0 or entry.radius < 0) == True:
+                        print(entry.max_wind,entry.min_pressure,entry.radius)
+                        current_entry = False
+                    else:
+                        if current_entry == False:
+                            current_entry = [f"{hur.basin}{hur.atfc}{hur.year} - {entry.date.strftime('%m%d %H')}h",coords[0],coords[1],entry.sst,entry.sst_dev,entry.max_wind,entry.min_pressure,entry.radius]
+                        else:
+                            next_entry = [coords[0],coords[1],entry.max_wind,entry.min_pressure,entry.radius]
+                except IndexError:
+                    first_landfall = True
+                    if current_entry != False:
+                        next_entry = [coords[0],coords[1],entry.max_wind,entry.min_pressure,entry.radius]
+                except Exception:
+                    current_entry = False
+                    continue
+                finally:
+                    if next_entry != False:
+                        temp_df.loc[len(temp_df)] = current_entry + next_entry
+                        current_entry = [f"{hur.basin}{hur.atfc}{hur.year} - {entry.date.strftime('%m%d %H')}h",coords[0],coords[1],entry.sst,entry.sst_dev,entry.max_wind,entry.min_pressure,entry.radius]
+                        next_entry = False
+        temp_df.to_csv('traj_input.csv',mode='a',index=False,header=False)
+
+# class_to_traj_csv(COORD_INT)
+
+def train_trajectory_trans(df,base_entry:list):
+    continuous_features = ['Lat','Lon','SST','SSTd','hurMaxWind','hurMinPressure','hurRadius']
+    target = ['Next Lat','Next Lon','Next hurMaxWind','Next hurMinPressure','Next hurRadius']
+
+    X_cont = df[continuous_features].values
+    y = df[target].values
+
+    scaler_X = StandardScaler()
+    X_cont = scaler_X.fit_transform(X_cont) # TEST DATA MUST BE SCALED X_test_scaled = scaler_X.transform(X_test) since both pre and post scaled
+
+    scalers_y = [StandardScaler() for _ in range(y.shape[1])]
+    y = np.hstack([scaler.fit_transform(y[:, i].reshape(-1, 1)) for i, scaler in enumerate(scalers_y)])
+
+    if os.path.exists("trajectory_tf.pth") == False:
+        X_cont = torch.tensor(X_cont, dtype=torch.float)
+        y = torch.tensor(y, dtype=torch.float)
+
+        model = TabTransformer(      
+            categories=[],                               # No categorical features
+            num_continuous=len(continuous_features),     # Number of continuous features
+            dim=32,                                      # Embedding dimension (paper suggests 32)
+            dim_out=y.shape[1],                          # Output dimension equals the number of target columns
+            depth=6,                                     # Depth of the transformer (paper recommends 6)
+            heads=8,                                     # Number of attention heads (paper suggests 8)
+            attn_dropout=0.1,                            # Attention dropout rate
+            ff_dropout=0.1,                              # Feed-forward dropout rate
+        )
+
+        class HurricaneDataset(Dataset):
+            def __init__(self, X_cont, y):
+                self.X_cont = X_cont
+                self.y = y
+
+            def __len__(self):
+                return len(self.y)
+
+            def __getitem__(self, idx):
+                return self.X_cont[idx], self.y[idx]
+
+        X_cont_train, X_cont_val, y_train, y_val = train_test_split(
+            X_cont, y, test_size=0.2, random_state=42
+        )
+
+        train_dataset = HurricaneDataset(X_cont_train, y_train)
+        val_dataset = HurricaneDataset(X_cont_val, y_val)
+
+        train_loader = DataLoader(train_dataset, batch_size=32, shuffle=True)
+        val_loader = DataLoader(val_dataset, batch_size=32, shuffle=False)
+
+        criterion = nn.MSELoss()  # Use Mean Squared Error Loss for regression
+        optimizer = optim.Adam(model.parameters(), lr=1e-3)
+
+        epochs = 20
+        # val_loss_dict = {}
+        for epoch in range(epochs):
+            model.train()
+            for X_cont_batch, y_batch in train_loader:
+                optimizer.zero_grad()
+                dummy_cat = torch.empty((X_cont_batch.size(0), 0), dtype=torch.long)
+                outputs = model(dummy_cat, X_cont_batch)
+                loss = criterion(outputs, y_batch)
+                loss.backward()
+                optimizer.step()
+
+            # Validation
+            model.eval()
+            val_loss = 0
+            with torch.no_grad():
+                for X_cont_batch, y_batch in val_loader:
+                    dummy_cat = torch.empty((X_cont_batch.size(0), 0), dtype=torch.long)
+                    outputs = model(dummy_cat, X_cont_batch)
+                    val_loss += criterion(outputs, y_batch).item()
+
+            print(f"Epoch {epoch+1}/{epochs}, Validation Loss: {val_loss/len(val_loader):.4f}")
+            # val_loss_dict[epoch] = val_loss/len(val_loader)
+
+        # plt.figure(figsize=(10, 6))
+        # plt.plot(val_loss_dict.keys(), val_loss_dict.values(), label="Validation Loss", marker='o')
+        # plt.title("Trajectory Transformer Validation Loss")
+        # plt.xlabel("Epochs")
+        # plt.ylabel("Loss")
+        # plt.legend()
+        # plt.grid(True)
+        # plt.show()
+
+        torch.save(model, "trajectory_tf.pth")
+        print("Model saved successfully at trajectory_transf.pth!")
+
+    if base_entry == None:
+        return
+
+    traj_model = torch.load("trajectory_tf.pth")
+
+    # Example predictions with the trained model
+    traj_model.eval()
+    with torch.no_grad():
+        sample_cont = torch.tensor(scaler_X.transform([base_entry]), dtype=torch.float)  # Example continuous feature values
+        dummy_cat = torch.empty((sample_cont.size(0), 0), dtype=torch.long)  # Empty categorical input
+        prediction = traj_model(dummy_cat, sample_cont)
+        y_pred_original = np.hstack([scaler.inverse_transform(prediction[:, i].reshape(-1, 1)) for i, scaler in enumerate(scalers_y)])
+        return y_pred_original[0]
+`,`<p><center><strong><h1>CODING JOURNAL</h1></strong></center>
+
+<h2>Project Title: </h2>Forecasting Hurricane Formation and Meteorological Behaviour Using Artifical Intelligence Model
+
+<h2>Objective:</h2>Determine whether modern machine learning architecture accurately predict hurricane formation, trajectory and intensity using historical and real-time meteorological and hurricane data?
+
+___________________________________________________________________________________________________
+
+<b><u>September: Foundation and Research</u>
+
+> Sept 1-7:</b>
+    o	Set up the project structure and initial repository.
+    o	Researched publicly available datasets (e.g., NOAA Pathfinder, HURDAT).
+
+<b>> Sept 8-14:</b>
+    o	Record and formatting literature sources
+
+</b>> Sept 15-21:</b>
+    o	Initial exploration of transformer application
+
+<b>> Sept 22-30:</b>
+    o	Slight adaptation of my existing HURDAT download and parsing script
+
+___________________________________________________________________________________________________
+
+<b><u>October: Data Collection and Parsingt</u>
+
+> Oct 1-7:</b>
+    o	Acquired historical hurricane track and intensity data spanning 30 years.
+    o	Pathfinder AVHRR data was selected
+
+<b>> Oct 8-14:</b>
+    o	Determine historical precedents for understanding hurricane data and coordinate range
+
+<b>> Oct 15-31:</b>
+    o	Worked completed on literature review and media release
+
+
+___________________________________________________________________________________________________
+
+<b><u>November: Model Creation and Validation</u>
+
+> Nov 1-7:</b>
+    o	Completion of functionality to acquire temperature data by date and location
+    o	Functionality to augment individual hurricane data with sea data
+
+<b>> Nov 8-14:</b>
+    o	Filtering of HURDAT data into initial hurricane entries to form the basis of a hurricane birth dataset
+    o	Single day condition become measurable with hurricane birth indicated within coordinate grid
+
+<b>> Nov 15-21:</b>
+    o	Transformer models for forecasting hurricane births, full trajectories and landfall or death are completed
+    o	Transformers are trained on data 65% train-test data split
+
+<b>> Nov 22-30:</b>
+    o	Error analysis on each training is performed
+    o	Visualizations with matplotlib for presentation are conducted using an example hurricane and date
+</p>`],"portfolio":[`    // Toggle folders open/close
+    folders.forEach((folder) => {
+      folder.addEventListener("click", (e) => {
+        e.stopPropagation();
+        folder.classList.toggle("open");
+      });
+    });
+  
+    // Handle file link clicks
+    fileLinks.forEach((link) => {
+      link.addEventListener("click", (e) => {
+        e.preventDefault(); // Prevent default link behavior
+  
+        // Get file name from data attribute
+        const fileName = link.getAttribute("data-file");
+        
+        if (fileContents[fileName]) {
+          editor.textContent = fileContents[fileName][0]
+        }
+
+        // Set editor content based on the file
+        codeViewer.innerHTML = fileContents[fileName][1];
+      });
+    });
+});
+
+document.addEventListener("DOMContentLoaded", () => {
+  const topSection = document.querySelector(".top-section");
+  const bottomSection = document.querySelector(".main-content");
+  const resizeHandle = document.querySelector(".resize-handle-sidebar");
+  const vscodeContainer = document.querySelector(".vscode-container");
+
+  let isResizing = false;
+  let startY = 0;
+  let startTopHeight = 0;
+
+  // Mouse down event to start resizing
+  resizeHandle.addEventListener("mousedown", (e) => {
+    isResizing = true;
+    startY = e.clientY;
+    startTopHeight = topSection.offsetHeight;
+
+    // Disable text selection while resizing
+    document.body.style.userSelect = "none";
+  });
+
+  // Mouse move event to resize
+  document.addEventListener("mousemove", (e) => {
+    if (!isResizing) return;
+
+    const deltaY = e.clientY - startY;
+    const containerHeight = vscodeContainer.offsetHeight;
+
+    // Calculate new heights
+    let newTopHeight = startTopHeight + deltaY;
+    let newBottomHeight = containerHeight - newTopHeight - resizeHandle.offsetHeight;
+
+    // Enforce minimum heights
+    const minHeight = 175; // Minimum height for both sections
+    if (newTopHeight < minHeight) newTopHeight = minHeight;
+    if (newBottomHeight < minHeight) newTopHeight = containerHeight - minHeight - resizeHandle.offsetHeight;
+
+    // Apply new heights
+    topSection.style.height = \${newTopHeight}px;
+    bottomSection.style.height = \${newBottomHeight}px;
+  });
+
+  // Mouse up event to stop resizing
+  document.addEventListener("mouseup", () => {
+    if (isResizing) {
+      isResizing = false;
+      document.body.style.userSelect = "auto"; // Re-enable text selection
+    }
+  });
+});`,`<p><center><h2>Capstone and Professional Portfolio Website</h2></center>
+
+    A good portfolio is essential as it serves as a tangible showcase of your skills, experience, and achievements, providing concrete evidence of what you can do beyond just listing qualifications. It creates a strong first impression, demonstrating professionalism, attention to detail, and a commitment to quality. My portfolio reflects my unique style and personal brand and will help me stand out from others in my field. In an effort to demonstrate my unique approach to tasks, I have chosen to build a website from the ground up using a basic frontend framework. This website reflects my unique style, mixed with my capabilities. This portfolio looks to imitate the VSCode IDE and present my various projects through a dynamic file explorer.
+
+<center>>> You are already visiting the project! Click the image for the associated repository! <<
+
+
+<a href="https://github.com/pmilks/CAPS499---Project"><img src="images\\editor.png" width="300"></a></center>
+
+
+ Reflection:
+
+ Building my website was an incredibly rewarding journey that pushed me to grow in ways I didn’t expect. At the start, I had a clear vision of what I wanted, but as I worked through the design and functionality, I realized how much more there was to consider—like ensuring everything was intuitive and responsive. Debugging tricky issues taught me patience, and seeing my ideas come to life reinforced why I love creating. There were moments of frustration, but each challenge I overcame made the final product even more meaningful. 
+ 
+ This experience not only improved my technical skills but also reminded me how fulfilling it is to create something from scratch that others can use and enjoy.
+
+  
+
+Completed: Winter 2024 - SCI400 - Capilano University</p>
+
+`],"thanks":[`thank_you_code = {
+  "Python": 'print("Thank you")',
+  "JavaScript": 'console.log("Thank you");',
+  "Java": 'System.out.println("Thank you");',
+  "C++": 'std::cout << "Thank you" << std::endl;',
+  "C#": 'Console.WriteLine("Thank you");',
+  "Ruby": 'puts "Thank you"',
+  "PHP": 'echo "Thank you";',
+  "Swift": 'print("Thank you")',
+  "Go": 'fmt.Println("Thank you")',
+  "Kotlin": 'println("Thank you")',
+  "R": 'print("Thank you")',
+  "Bash": 'echo "Thank you"',
+}
+
+for language, code in thank_you_code.items():
+  print(f"{language}: {code}")`,`<p><center><h1>Thanks to:</h1></center>
+
+- Professors at Capilano Univeristy who aided in my academic journey
+
+- My friends who supported me
+
+- My family for upholding through challenging times
+
+- And you for visiting!</p>`],"diet":[`class Person:
+    def __init__(self, gender, age, height, weight, act_lvl):
+        self.gender = gender
+        self.age = age #y (18+)
+        self.height = height #cm
+        self.weight = weight #kg
+        self.act_lvl = act_lvl #1-4
+
+    def daily_macros(self):
+        #EER https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html
+        match self.gender:
+            case 'M':
+                match self.act_lvl:
+                    case 1:
+                        EER = 753.07 - (10.83*self.age) + (6.5*self.height) + (14.1*self.weight)
+                    case 2:
+                        EER = 581.47 - (10.83*self.age) + (8.3*self.height) + (14.94*self.weight)
+                    case 3:
+                        EER = 1004.82 - (10.83*self.age) + (6.52*self.height) + (15.91*self.weight)
+                    case 4:
+                        EER = -581.47 - (10.83*self.age) + (15.61*self.height) + (19.11*self.weight)
+            case 'F':
+                match self.act_lvl:
+                    case 1:
+                        EER = 584.9 - (7.01*self.age) + (5.72*self.height) + (11.7*self.weight)
+                    case 2:
+                        EER = 575.77 - (7.01*self.age) + (6.6*self.height) + (12.14*self.weight)
+                    case 3:
+                        EER = 710.25 - (7.01*self.age) + (6.54*self.height) + (12.34*self.weight)
+                    case 4:
+                        EER = 511.83 - (7.01*self.age) + (9.07*self.height) + (12.56*self.weight)
+        #Protein (g) https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-macronutrients.html
+        protein = 0.8*self.weight
+        #Fat (g) [35% of cal] [9 cal per g] https://newsnetwork.mayoclinic.org/discussion/fat-grams-how-to-track-fat-in-your-diet/#:~:text=So%20if%20you're%20following,no%20more%20than%2022%20grams.
+        fat = (EER*0.35)/9
+        #Carbohydrates (g) [55% of cal] [4 cal per g] https://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/in-depth/carbohydrates/art-20045705#:~:text=How%20many%20carbohydrates%20do%20you,grams%20of%20carbs%20a%20day.
+        carbs = (EER*0.55)/4
+        #Fiber (g)
+        match self.gender:
+            case 'M':
+                if self.age<51:
+                    fiber = 38
+                else:
+                    fiber = 30
+            case 'F':
+                if self.age<51:
+                    fiber = 25
+                else:
+                    fiber = 21
+        #Sugar (g) [10% of cal] [4 cal per g] https://www.hsph.harvard.edu/nutritionsource/carbohydrates/added-sugar-in-the-diet/#:~:text=The%20AHA%20suggests%20a%20stricter,of%20sugar)%20for%20most%20men.
+        sugar = (EER*0.1)/4
+        #Calcium (mg) https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements.html#tbl3
+        match self.gender:
+            case 'M':
+                if self.age<71:
+                    calcium = 1000
+                else:
+                    calcium = 1200
+            case 'F':
+                if self.age<51:
+                    calcium = 1000
+                else:
+                    calcium = 1200
+        #Iron (mg) https://www.canada.ca/en/health-canada/services/food-nutrition/healthy-eating/dietary-reference-intakes/tables/reference-values-elements.html#tbl3
+        match self.gender:
+            case 'M':
+                iron = 8
+            case 'F':
+                if self.age<51:
+                    iron = 18
+                else:
+                    iron = 8
+        #Sodium (mg) https://www.cdc.gov/salt/index.htm#:~:text=Most%20People%20Eat%20Too%20Much,of%20a%20healthy%20eating%20pattern.
+        sodium = 2300
+        #Vit A (ug)
+        match self.gender:
+            case 'M':
+                vit_a = 900
+            case 'F':
+                vit_a = 700
+        #Vit C (mg)
+        match self.gender:
+            case 'M':
+                vit_c = 90
+            case 'F':
+                vit_c = 75
+        #Cholesterol (mg)
+        cholesterol = 300
+        return {'EER':[EER*0.9,EER*1.1], #Objective
+                'Protein': protein,
+                'Fiber': fiber,
+                'Calcium': calcium,
+                'Iron': iron,
+                'Vit-A': vit_a,
+                'Vit-C': vit_c, #Maximize
+                'Fat': fat,
+                'Carbohydrates': carbs,
+                'Sugar': sugar,
+                'Sodium': sodium,
+                'Cholesterol':cholesterol} #Minimize
+
+class Food:
+    def __init__(self, cost, brand_name, max_serv, calories, protein, fat, carbohydrates, fiber, sugar, calcium, iron, sodium, vit_a, vit_c, cholesterol):
+        self.cost = cost
+        self.brand_name = brand_name
+        self.max_serv = max_serv
+        self.calories = calories
+        self.protein = protein
+        self.fat = fat
+        self.carbohydrates = carbohydrates
+        self.fiber = fiber
+        self.sugar = sugar
+        self.calcium = calcium
+        self.iron = iron
+        self.sodium = sodium
+        self.vit_a = vit_a
+        self.vit_c = vit_c
+        self.cholesterol = cholesterol
+
+    @classmethod
+    def from_api(cls, brand_name, id, cost, max_serv):
+        api_key = '7UQMLps5fqTaZBDiUf1nIGSkqLqOzdpVmbsEqOza'
+        api_url = f'https://api.nal.usda.gov/fdc/v1/food/{id}?api_key={api_key}'
+        response = requests.get(api_url)
+        usda_json = response.json()
+        nutrient_id = {1003:'Protein',1004:'Fat',1005:'Carbohydrates',1079:'Fiber',2000:'Sugar',1087:'Calcium',1089:'Iron',1093:'Sodium',1162:'Vit-C',1104:'Vit-A',1253:'Cholesterol'}
+        calories = usda_json['labelNutrients']['calories']['value']
+        base_nuts = {'Calories':0,'Protein':0,'Fat':0,'Carbohydrates':0,'Fiber':0,'Sugar':0,'Calcium':0,'Iron':0,'Sodium':0,'Vit-A':0,'Vit-C':0,'Cholesterol':0}
+        new_nuts = {nutrient_id[i['nutrient']['id']]:i['amount'] for i in usda_json['foodNutrients'] if i['nutrient']['id'] in nutrient_id.keys()}
+        base_nuts.update(new_nuts)
+        return cls(cost=cost, max_serv=max_serv, calories=calories, brand_name=brand_name,
+                   protein=base_nuts['Protein'],
+                   fat=base_nuts['Fat'],
+                   carbohydrates=base_nuts['Carbohydrates'],
+                   fiber=base_nuts['Fiber'],
+                   sugar=base_nuts['Sugar'],
+                   calcium=base_nuts['Calcium'],
+                   iron=base_nuts['Iron'],
+                   sodium=base_nuts['Sodium'],
+                   vit_a=base_nuts['Vit-A'],
+                   vit_c=base_nuts['Vit-C'],
+                   cholesterol=base_nuts['Cholesterol'])`,`<div><center><h2><u>Diet Optimization using Linear Regression</u></h2></center>
+<p> This project is linear regression program for diet formulation for common foods and their macronutrient profiles (protein, carbs, and fats) to calculate ideal quantities of each food that meet a user's specific nutritional needs. By modeling the relationship between macronutrient intake and desired outcomes (e.g., calorie targets or nutrient balance), the program suggests a personalized combination of foods. This approach ensures that dietary goals are met efficiently while providing flexibility in food choices. The program obtains foods’ nutrient profile by accessing a governmental food safety API with built-in flexibility for user prompting.</p>
+<center><p>&gt;&gt; Click the graph to explore the diet optimization model! &lt;&lt;</p></center>
+<center><a href='https://colab.research.google.com/drive/1fLdT6AxV2_4j5Ospij0AVDYUVyGhPPKV'><img src='images\\food.jpg' width=400'></a></center>
+<br><p>Reflection:<br>
+  Building this linear regression program for diet formulation enhanced my skills in both rudimentary machine learning and working with APIs. Integrating food databases taught me how to handle real-time data, manage authentication, and process responses. This experience reinforced the importance of data cleaning and demonstrated how APIs can provide dynamic, personalized results in applications.</p></div>`]
     }
 
     // Toggle folders open/close
@@ -647,8 +1119,3 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   });
 });
-
-
-
-
-  
